@@ -1,4 +1,4 @@
-# IMS Wannsee - Octocat
+# IMS Wannsee - Octocat for Nick
 
 Tailored version of the [Octocat Generator](https://myoctocat.com/) for IMS Wannsee (International Montesorri School)
 
